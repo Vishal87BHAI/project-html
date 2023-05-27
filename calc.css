@@ -55,3 +55,10 @@
   form input.operator {
     color: rgb(0, 243, 243);
   }
+
+  /* side white margin removed as it is the reason of scroll
+   you can remove this body css if don`t want
+*/
+  body {
+    margin: 0px;
+  }
